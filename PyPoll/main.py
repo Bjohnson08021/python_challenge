@@ -47,7 +47,7 @@ elif Li > Khan and Li > Correy and Li > OToole:
 
 elif OToole > Khan and OToole > Correy and OToole > Li:
     Winner = OToole
-        #`Candidate_list = Candidate_list + 1
+        
 #print statement and percentage
 print(f"Election Resluts") 
 print(f"-------------------")
